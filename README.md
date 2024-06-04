@@ -1,2 +1,2 @@
 # contactInformationGetter
-resource to help get the contact information of multiple potential clients on a web page
+This resource is used to be able to take the contact infomation of potential clients on multiple web pages on a single site through an interative function.
